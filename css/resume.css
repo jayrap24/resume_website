@@ -1,0 +1,87 @@
+html {
+    background: url(../background.jpg) no-repeat center center fixed;  
+    background-position: center;
+    background-size: cover;    
+}
+
+.thebox {
+    background: rgba(0,0,0,0.3);
+    height: 400px;
+    width: 250px;
+    color: white;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 30px;  
+    text-align: center;
+    border-radius: 1%;; 
+}
+
+h1 {
+    font-size: 35;
+    font-weight: 100;
+    font-family:sans-serif
+}
+
+h5 {
+    font-weight: 700;
+}
+
+.profile-pic{
+    border-radius: 5%;
+    height: 140;
+}
+
+.socialMedia{
+    font-size: 25;
+    letter-spacing: 4;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: none;
+
+    
+    
+    
+}
+
+.socialMedia a {
+    color: white;      
+}
+
+.line-break {
+    width: 250px;
+    border-top: 1px solid white;  
+}
+
+.nav-section {
+    width: 100%;
+    display: none;
+    
+}
+
+nav ul {
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    
+    
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 70px;
+    font-size: 25px;
+    font-weight: 300
+       
+}
+
+
+
